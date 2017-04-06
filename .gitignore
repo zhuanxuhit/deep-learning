@@ -8,3 +8,7 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
+
+*.gz
+
+transfer-learning/flower_photos/
