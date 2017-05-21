@@ -12,3 +12,5 @@ embeddings/text8.zip
 *.gz
 
 transfer-learning/flower_photos/
+face_generation/data
+
