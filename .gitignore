@@ -13,4 +13,8 @@ embeddings/text8.zip
 
 transfer-learning/flower_photos/
 face_generation/data
+face_generation/checkpoint
+face_generation/generator.ckpt.data-00000-of-00001
+face_generation/generator.ckpt.index
+face_generation/generator.ckpt.meta
 
